@@ -1,0 +1,8 @@
+date: 1644766157518
+payment: 1000
+method: Efectivo
+products:
+  '123':
+    description: Agua
+    price: 100
+    amount: 6
